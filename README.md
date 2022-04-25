@@ -3,7 +3,7 @@
 Etudiant en seconde année, passionné, motivé et toujours en quête d'apprentissage, j'ai commencé à apprendre en autodidacte.
 Aujourd'hui je continue à approfondir mes connaissances en plus de mes études en suivant des formations en ligne et en créant certains projets personnels.
 
-### Languages and Tools:
+### Langages et outils :
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][portfolio]
 
@@ -22,7 +22,7 @@ Aujourd'hui je continue à approfondir mes connaissances en plus de mes études 
 <br />
 <br />
 
-### ⭐ Statistique GitHub
+### ⭐ Statistiques GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDejardin&layout=compact&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 

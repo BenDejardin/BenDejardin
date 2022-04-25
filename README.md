@@ -24,8 +24,10 @@ Aujourd'hui je continue à approfondir mes connaissances en plus de mes études 
 
 ### ⭐ Statistiques GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDejardin&layout=compact&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenDejardin&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenDejardin&layout=compact&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25" style="padding-right:30px;" />][portfolio]
+
+[<img align="left" width="420px" src="https://github-readme-stats.vercel.app/api?username=BenDejardin&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25" style="margin-top:-10px;" />][portfolio]
 
 [portfolio]: https://bendejardin.github.io/
